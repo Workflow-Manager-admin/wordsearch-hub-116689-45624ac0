@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/wordsearch-hub-116689-45624ac0/wordsearch_backend"
+}
